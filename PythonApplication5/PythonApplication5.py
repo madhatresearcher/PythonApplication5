@@ -25,3 +25,5 @@ print(len(newegg_cart));
 print(newegg_cart);
 newegg_cart[7]=input();
 wefwfqefqd
+niuninininin
+injionionol
