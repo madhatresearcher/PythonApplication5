@@ -24,4 +24,4 @@ newegg_cart=newegg_cart+[7];
 print(len(newegg_cart));
 print(newegg_cart);
 newegg_cart[7]=input();
-print(newegg_cart);
+wefwfqefqd
